@@ -1,0 +1,13 @@
+!libs/*.nupkg
+*.sln.DotSettings.user
+*.csproj.DotSettings.user
+**/[Bb]in/
+**/[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.DS_Store
