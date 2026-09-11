@@ -11,7 +11,7 @@ public partial class NeonMenuPlugin : BasePlugin
 {
     public const string PluginGuid = "io.neonmodder123.NeonMenu";
     public const string PluginName = "NeonMenu";
-    public const string PluginVersion = "v1.0.0";
+    public const string PluginVersion = "v1.0.1";
     public Harmony Harmony { get; } = new(PluginGuid);
     public static ManualLogSource Logger = BepInEx.Logging.Logger.CreateLogSource(PluginName);
     

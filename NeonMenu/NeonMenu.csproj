@@ -4,7 +4,7 @@
         <LangVersion>latest</LangVersion>
         <DebugType>embedded</DebugType>
 
-        <VersionPrefix>1.0.0</VersionPrefix>
+        <VersionPrefix>1.0.1</VersionPrefix>
         <VersionSuffix>dev</VersionSuffix>
         <Description>An Among Us mod menu! Or is it...</Description> <!-- (it isn't) -->
         <Authors>neonmodder123</Authors>
